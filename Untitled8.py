@@ -2,8 +2,10 @@
 # coding: utf-8
 
 # In[ ]:
-
+venv\Scripts\activate
 pip install matplotlib
+pip freeze > requirements.txt
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
