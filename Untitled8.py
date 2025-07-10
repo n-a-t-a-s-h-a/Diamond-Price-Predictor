@@ -3,8 +3,7 @@
 
 # In[ ]:
 
-pip install matplotlib
-pip freeze > requirements.txt
+
 
 import pandas as pd
 import numpy as np
