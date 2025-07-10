@@ -310,7 +310,7 @@ result.loc['Decision Tree']=[mae_dt, mse_dt, r2_dt]
 result
 
 
-# In[ ]:
+
 
 
 
