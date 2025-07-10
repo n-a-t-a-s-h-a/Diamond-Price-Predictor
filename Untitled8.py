@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[ ]:
-venv\Scripts\activate
+
 pip install matplotlib
 pip freeze > requirements.txt
 
